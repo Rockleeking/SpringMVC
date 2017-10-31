@@ -1,0 +1,42 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 5, 2017, 10:42:37 AM
+    Author     : root
+*/
+
+nav-right,.nav-signup,.nav-log-in, .nav-user, .nav-li, .nav-header, .nav-ui, .dropdown, .dropdown-menudown, .dropdowna{
+                margin: 0px;
+                padding: 0px;
+                list-style: none;  
+                text-align: center;
+                font-family: fantasy;
+                font-size: large;
+            }
+            .nav-ui li  {
+                float: left;
+                 padding-right: 30px; 
+            }
+      
+
+            .nav-signup li {
+                float: right;
+                padding-right:30px; 
+                
+                
+            }
+            .top-menu{
+                background-color: #e5e5e5;
+            }
+            .dropdown:hover > ul
+{
+	display:block
+}
+
+.dropdown-toggle{
+    padding-bottom:5px; 
+    
+}
